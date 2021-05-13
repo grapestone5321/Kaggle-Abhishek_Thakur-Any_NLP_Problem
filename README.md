@@ -1,6 +1,13 @@
 # Kaggle-Abhishek_Thakur-Any_NLP_Problem
 Kaggle-Abhishek_Thakur-Any_NLP_Problem
 
+-------
+
+# GitHub
+### Approaching (Almost) Any Machine Learning Problem
+https://github.com/abhishekkrthakur/approachingalmost
+
+- 11: Approaching text classification/regression
 
 
 -------
@@ -23,7 +30,7 @@ https://www.youtube.com/playlist?list=PL98nY_tJQXZl0WwsJluhc6tGrKWCX2suH
 
 
 # Best NLP competitions on Kaggle (to learn from)
-
+https://www.youtube.com/watch?v=-nH4OSyjwSI&t=4s
 
 
 In this video, I talk about the #NLP​ competitions on #Kaggle​ that I find are the best to learn from. 
